@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NBAClickyGame/static/css/main.2a9bb773.chunk.css",
+    "main.js": "/NBAClickyGame/static/js/main.05842e6b.chunk.js",
+    "main.js.map": "/NBAClickyGame/static/js/main.05842e6b.chunk.js.map",
+    "runtime-main.js": "/NBAClickyGame/static/js/runtime-main.3810d138.js",
+    "runtime-main.js.map": "/NBAClickyGame/static/js/runtime-main.3810d138.js.map",
+    "static/js/2.b56bbd53.chunk.js": "/NBAClickyGame/static/js/2.b56bbd53.chunk.js",
+    "static/js/2.b56bbd53.chunk.js.map": "/NBAClickyGame/static/js/2.b56bbd53.chunk.js.map",
+    "index.html": "/NBAClickyGame/index.html",
+    "precache-manifest.d5c91b212e67635692fd0e69e7224e26.js": "/NBAClickyGame/precache-manifest.d5c91b212e67635692fd0e69e7224e26.js",
+    "service-worker.js": "/NBAClickyGame/service-worker.js",
+    "static/css/main.2a9bb773.chunk.css.map": "/NBAClickyGame/static/css/main.2a9bb773.chunk.css.map",
+    "static/js/2.b56bbd53.chunk.js.LICENSE": "/NBAClickyGame/static/js/2.b56bbd53.chunk.js.LICENSE",
+    "static/media/nba_playoff.jpg": "/NBAClickyGame/static/media/nba_playoff.104b3af2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3810d138.js",
+    "static/js/2.b56bbd53.chunk.js",
+    "static/css/main.2a9bb773.chunk.css",
+    "static/js/main.05842e6b.chunk.js"
+  ]
+}
