@@ -1,0 +1,14 @@
+.jumbotron{
+  text-align: center;
+  padding: 10px;
+}
+img {
+  width:600px;
+  height: 400px;
+  margin: 0px;
+}
+
+ul {
+  list-style-type: none;
+  
+}
